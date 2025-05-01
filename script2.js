@@ -12,5 +12,5 @@ noButton.addEventListener("click", () => {
 
 yesButton.addEventListener("click", () => {
   
-  window.location.href = "saori.php";
+  window.location.href = "saori.html";
 });
