@@ -11,6 +11,6 @@ noButton.addEventListener("click", () => {
 });
 
 yesButton.addEventListener("click", () => {
-  // Redireciona para o jogo2.php quando clica em "Sim"
+  // Redireciona para o jogo2.html quando clica em "Sim"
   window.location.href = "jogo2.php";
 });
