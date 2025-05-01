@@ -14,5 +14,5 @@ noButton.addEventListener("click", () => {
 // Quando o botão "Sim" for clicado
 yesButton.addEventListener("click", () => {
   // Redireciona para serio.php
-  window.location.href = "serio.php";
+  window.location.href = "serio.html";
 });
