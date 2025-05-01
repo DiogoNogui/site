@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meu Primeiro Site</title>
+  <title>Olaaa mundo</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -17,7 +17,7 @@
   </style>
 </head>
 <body>
-  <h1>Bem-vindo ao meu site!</h1>
+  <h1>Eu te amo julia</h1>
   <p>Eu te amo julia</p>
 </body>
 </html>
