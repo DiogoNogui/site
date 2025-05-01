@@ -18,6 +18,6 @@
 </head>
 <body>
   <h1>Bem-vindo ao meu site!</h1>
-  <p>Criado por Diogo Nogueira com 💻 e café!</p>
+  <p>Eu te amo julia</p>
 </body>
 </html>
